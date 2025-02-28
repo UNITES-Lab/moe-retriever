@@ -4,7 +4,7 @@
 
 Official implementation for "Generate, Then Retrieve: Addressing Missing Modalities in Multimodal Learning via Generative AI and MoE" accepted by AAAI 2025 GenAI4Health (Oral).  
 
-- Authors: [Sukwon Yun*](https://sukwonyun.github.io/), [Jiayi Xin*](https://www.linkedin.com/in/jiayi-xin/), [Inyoung Choi](https://www.linkedin.com/in/inyoung-choi-77105221b/), [Jie Peng](https://openreview.net/profile?id=~Jie_Peng4), [Ying Ding](https://yingding.ischool.utexas.edu/) , [Qi Long](https://www.med.upenn.edu/long-lab/currentgroupmembers.html) and [Tianlong Chen](https://tianlong-chen.github.io/) (*:Equal Contribution)
+- Authors: [Sukwon Yun*](https://sukwonyun.github.io/), [Jiayi Xin*](https://www.linkedin.com/in/jiayi-xin-978511334/), [Inyoung Choi](https://www.linkedin.com/in/inyoung-choi-77105221b/), [Jie Peng](https://openreview.net/profile?id=~Jie_Peng4), [Ying Ding](https://yingding.ischool.utexas.edu/) , [Qi Long](https://www.med.upenn.edu/long-lab/currentgroupmembers.html) and [Tianlong Chen](https://tianlong-chen.github.io/) (*:Equal Contribution)
 
 ## Overview
 
